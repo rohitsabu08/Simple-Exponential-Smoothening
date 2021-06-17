@@ -1,4 +1,4 @@
-# Time-Series
+# Time-Series - Simple exponential Smoothening
 
 Simple Exponential Smoothening 
 
